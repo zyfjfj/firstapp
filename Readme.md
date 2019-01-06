@@ -121,3 +121,7 @@ other files that are toolkit-specific:
 
         resources/          # Assets such as images, fonts, etc.
 
+## sencha cmd command
+view:sencha generate view user.User
+    sencha generate -base tab.Panel view user.User
+model:sencha generate model Meum id:int,title:string,iconCls:string

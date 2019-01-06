@@ -3,6 +3,7 @@ bootstrap.*
 classic.json*
 modern.json*
 .sencha
+.idea/
 ### ExtJs template
 .architect
 bootstrap.css
